@@ -22,24 +22,16 @@
       "id": "sFCYTLfjQ"
     },
     {
-      "name": "",
-      "phone": "",
-      "id": "Riixcf7ti"
-    },
-    {
-      "name": "",
-      "phone": "",
-      "id": "_He_MyblQ"
-    },
-    {
-      "name": "",
-      "phone": "",
-      "id": "QwiitfSy6"
-    },
-    {
       "name": "Thang",
       "phone": "0338634204",
       "id": "nIuDWaYD8"
+    },
+    {
+      "name": "Tin",
+      "phone": "12312332434",
+      "id": "M5t8ksHzF",
+      "email": "thuongnguyen01685@gmail.com",
+      "password": "123456"
     }
   ]
 }
