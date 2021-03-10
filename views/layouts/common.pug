@@ -13,5 +13,15 @@ html
          a.nav-link(href='#') Home
        li.nav-item
          a.nav-link(href='/users') User
+       li.nav-item
+         a.nav-link(href='/products') Products
+       li.nav-item
+         a.nav-link(href='/cart') Cart
+       li.nav-item
+         a.nav-link(href='/transfer/create') Transfer
+    if user
+     .br 
+     p= user.name 
+     img(src=user.avatar,width="32")
   .container.-pt5       
     block content
